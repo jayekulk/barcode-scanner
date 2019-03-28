@@ -2,7 +2,7 @@
 	displayBlock="true" xmlns="sap.m">
 	<App>
 		<pages>
-			<Page title="Bar Code Scanner test">
+			<Page title="Bar Code Scanner">
 				<content>
 					<Button text="Scan"  id="__button0" type="Emphasized" icon="sap-icon://bar-code" press="onScan"/>
 					<!--<Button text="Geo" id="__button1" type="Emphasized" icon="sap-icon://bar-code" press="onGetLocation"/>-->

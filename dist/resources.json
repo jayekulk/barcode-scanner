@@ -1,0 +1,114 @@
+{
+    "resources": [
+        {
+            "name": "css/style.css"
+        },
+        {
+            "name": "view/Main.view.xml"
+        },
+        {
+            "name": "extended_runnable_file.html"
+        },
+        {
+            "name": "manifest.json"
+        },
+        {
+            "name": "Component.js"
+        },
+        {
+            "name": "src/src/scripts/require.js"
+        },
+        {
+            "name": "src/src/scripts/bootstrap.js"
+        },
+        {
+            "name": "src/src/cordova_b.js"
+        },
+        {
+            "name": "src/src/common/exec/proxy.js"
+        },
+        {
+            "name": "src/src/common/pluginloader_b.js"
+        },
+        {
+            "name": "src/src/common/modulemapper_b.js"
+        },
+        {
+            "name": "src/src/common/pluginloader.js"
+        },
+        {
+            "name": "src/src/common/argscheck.js"
+        },
+        {
+            "name": "src/src/common/channel.js"
+        },
+        {
+            "name": "src/src/common/builder.js"
+        },
+        {
+            "name": "src/src/common/init_b.js"
+        },
+        {
+            "name": "src/src/common/utils.js"
+        },
+        {
+            "name": "src/src/common/platform.js"
+        },
+        {
+            "name": "src/src/common/exec.js"
+        },
+        {
+            "name": "src/src/common/urlutil.js"
+        },
+        {
+            "name": "src/src/common/modulemapper.js"
+        },
+        {
+            "name": "src/src/common/base64.js"
+        },
+        {
+            "name": "src/src/common/init.js"
+        },
+        {
+            "name": "src/src/cordova.js"
+        },
+        {
+            "name": "src/src/legacy-exec/test/exec.js"
+        },
+        {
+            "name": "src/src/legacy-exec/test/platform.js"
+        },
+        {
+            "name": "src/src/legacy-exec/test/test/modulereplacer.js"
+        },
+        {
+            "name": "src/src/legacy-exec/test/test/testmodule.js"
+        },
+        {
+            "name": "src/src/legacy-exec/test/test/propertyreplacer.js"
+        },
+        {
+            "name": "src/src/legacy-exec/test/test/mockxhr.js"
+        },
+        {
+            "name": "i18n/i18n.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "controller/Main.controller.js"
+        },
+        {
+            "name": "model/models.js"
+        },
+        {
+            "name": "index.html"
+        },
+        {
+            "name": "Component-preload.js",
+            "merged": true
+        },
+        {
+            "name": "neo-app.json"
+        }
+    ]
+}
